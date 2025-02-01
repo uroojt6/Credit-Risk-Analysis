@@ -1,24 +1,24 @@
-# Credit Risk Analysis
+Credit Risk Analysis
 ```markdown
-# Credit Risk Analysis
+Credit Risk Analysis
 
 This repository contains a Credit Risk Analysis project, leveraging a systematic predictive modeling approach to assess and manage credit risk effectively. The project follows a step-by-step framework, ensuring data quality, robust analysis, and accurate predictions.
 
 ---
 
-## **Predictive Modeling Steps**
+Predictive Modeling Steps
 
-### 1. **Business Understanding**
+1. **Business Understanding**
    - Define the business goals and objectives.
    - Identify key questions related to credit risk assessment.
    - Collaborate with stakeholders to ensure alignment on desired outcomes.
 
-### 2. **Data Understanding**
+2. Data Understanding
    - Collect relevant datasets (e.g., customer demographics, financial history, loan details).
    - Explore and analyze the data to identify patterns, trends, and potential issues.
    - Address missing values, inconsistencies, and anomalies.
 
-### 3. **Data Preparation**
+3. Data Preparation
    - Perform data cleaning and transformation.
    - Standardize or normalize numerical features as required.
    - Encode categorical variables using methods like one-hot encoding or label encoding.
